@@ -1,4 +1,4 @@
-export const STRIPE_LINK = "https://buy.stripe.com/REPLACE_ME";
+export const STRIPE_LINK = "https://buy.stripe.com/fZueVcbBc5i8a5F3q5dZ601";
 
 export type ToolField = {
   name: string;
